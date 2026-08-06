@@ -4,7 +4,7 @@
 
 ### 💻 Software Developer | Java Backend | Spring Boot | Angular
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrollador+Backend+con+Java+y+Spring+Boot;Construyendo+APIs+REST+y+Microservicios;Aprendiendo+Arquitectura+Hexagonal+y+Cloud" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrollador+Backend+con+Java+y+Spring+Boot;Aprendiendo+Arquitectura+Hexagonal+y+Cloud" />
 
 </div>
 
